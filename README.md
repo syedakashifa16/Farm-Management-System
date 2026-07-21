@@ -16,3 +16,9 @@ A DBMS-based application for creating and managing digital forms with secure dat
 - MySQL
 - SQL
 - XAMPP
+
+## Learning Outcomes
+- CRUD Operations
+- Database Management
+- SQL Queries
+- Python and MySQL Integration
